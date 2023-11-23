@@ -1,0 +1,2 @@
+/data/fat/nic-for-llm/trace/env/bin/x86_64-conda-linux-gnu-ar qc ../../../../../lib/libgmock_maind.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
+/data/fat/nic-for-llm/trace/env/bin/x86_64-conda-linux-gnu-ranlib ../../../../../lib/libgmock_maind.a
